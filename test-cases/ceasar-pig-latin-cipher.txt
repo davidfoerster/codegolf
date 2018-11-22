@@ -1,0 +1,4 @@
+cat -> evday
+dog -> uhfay
+eel -> iim
+z -> bay

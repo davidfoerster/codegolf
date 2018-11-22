@@ -1,0 +1,23 @@
+Input  0: 'abcmnnnopstzra'
+Output 0: 'abcTAPETAPETmnnnopTAstTAPETzra'
+
+Input  1: 'aza'
+Output 1: 'aTAPETAPETAPETAPETAPETAPEza'
+
+Input  2: 'ghijk'
+Output 2: 'ghijk'
+
+Input  3: 'aabbddeeffiiacek'
+Output 3: 'aabbTddeeffTAiiaTcTeTAPETk'
+
+Input  4: 'zyxxccba'
+Output 4: 'zyxxccba'
+
+Input  5: 'abccxxyz'
+Output 5: 'abccTAPETAPETAPETAPETAPExxyz'
+
+Input  6: 'abtapegh'
+Output 6: 'abTAPETAPETAPETAPETtaTAPETAPETAPETApeTgh'
+
+Input  7: 'tape'
+Output 7: 'taTAPETAPETAPETApe'

@@ -1,0 +1,17 @@
+Input  0: 'abcfg qrstuvw'
+Output 0: 'qrsvw'
+
+Input  1: 'abqrs qwertyuiopasdfghjklzxcvbnm'
+Output 1: 'qwjklzxcvbnm'
+
+Input  2: 'za qr'
+Output 2: 'qr'
+
+Input  3: 'azazaz qwertyuioplkjhgfdsazxcvbnmnbvcxzasdfghjklpoiuytrewq'
+Output 3: 'qmn'
+
+Input  4: 'abcfggg qrstuvw'
+Output 4: 'qrsvw'
+
+Input  5: 'abcfg qrstuvwww'
+Output 5: 'qrsvwww'

@@ -1,0 +1,23 @@
+Input  0: 'abc\nbcd\nddd\neex\ngfz\nhka\nimh'
+Output 0: 'abc\nbcd\nRdd\ndeE\nefR\nOPO\ngEP\nhRE\niOR\n kO\n PP\n mE\n  R\n  O\n  P\n  E\n  R\n  O\n  P\n  E\n  R\n  O\n  x\n  P\n  z\n  a\n  E\n  R\n  O\n  P\n  E\n  R\n  h'
+
+Input  1: 'a\nz\na'
+Output 1: 'a\nR\nO\nP\nE\nR\nO\nP\nE\nR\nO\nP\nE\nR\nO\nP\nE\nR\nO\nP\nE\nR\nO\nP\nE\nz\na'
+
+Input  2: 'zz\nyy\nxx\nxx\ncc\ncc\nbb\nac'
+Output 2: 'zz\nyy\nxx\nxx\ncc\ncc\nbb\nac'
+
+Input  3: 'a\nb\nc\nc\nx\nx\ny\nz'
+Output 3: 'a\nb\nc\nc\nR\nO\nP\nE\nR\nO\nP\nE\nR\nO\nP\nE\nR\nO\nP\nE\nR\nO\nP\nE\nx\nx\ny\nz'
+
+Input  4: 'zai\nybj\nxcq\nxcu\ncxw\ncxw\nbyr\nazw'
+Output 4: 'zai\nybj\nxcR\nxcO\ncRP\ncOE\nbPR\naEO\n Rq\n OP\n PE\n ER\n Ru\n OO\n Pw\n Ew\n Rr\n OP\n PE\n ER\n RO\n Ow\n P \n E \n x \n x \n y \n z '
+
+Input  5: 'asdljasdjk'
+Output 5: 'asdljasdjk'
+
+Input  6: 'asdljasdjk\nlkawdasuhq\nasjdhajksd'
+Output 6: 'asdljasdjk\nRkaOdasPhR\nOPOPEajEPO\nPEPER  REP\nERERO  ORE\nROROh  POR\nOPOP   EPq\nPEPE   REd\nERER   OR \nRsRO   PO \nO jP   EP \nl  w   RE \na  d   Os \n       P  \n       E  \n       R  \n       O  \n       u  \n       k  '
+
+Input  7: 're\nop\npo\ner'
+Output 7: 're\noR\npO\neP\n E\n R\n O\n P\n E\n R\n O\n p\n o\n P\n E\n r'

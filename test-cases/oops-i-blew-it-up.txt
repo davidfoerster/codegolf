@@ -1,0 +1,26 @@
+Input  1: 'abcafabc'
+Output 1: 'a12344321c'
+
+Input  2: 'ae'
+Output 2: '343'
+
+Input  3: 'az'
+Output 3: '23242423'
+
+Input  4: 'abcefghijmnop'
+Output 4: 'ab121fghi1221nop'
+
+Input  5: 'abceghij'
+Output 5: 'ab12221hij'
+
+Input  6: 'abcdefgklmnopqrstuvwxyz'
+Output 6: 'abcd1234321nopqrstuvwxyz'
+
+Input  7: 'abdefgjkl'
+Output 7: 'a121ef1221kl'
+
+Input  8: 'xyzaz'
+Output 8: '20212223242423'
+
+Input  9: 'zrabc'
+Output 9: 'zrabc'
